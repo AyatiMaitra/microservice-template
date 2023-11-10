@@ -1,0 +1,4 @@
+pre-commit==2.11.1
+mypy==0.910
+flake8==3.9.1
+pydash==4.9.3
