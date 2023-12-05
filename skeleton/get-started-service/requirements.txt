@@ -1,0 +1,16 @@
+fastapi==0.100.0
+uvicorn==0.22.0
+
+SQLAlchemy==2.0.13
+# psycopg2==2.9.6
+# psycopg2
+
+python-dotenv==1.0.0
+
+alembic==1.11.1
+
+pydentic[email]
+
+passlib[bcrypt]
+
+google-cloud-firestore
